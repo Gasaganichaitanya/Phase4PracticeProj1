@@ -1,0 +1,11 @@
+D:\mphasis\Phase4PracticeProjects\PracticeProject1\LoginLibProj1\LoginLibProj1\bin\Debug\net6.0\LoginLibProj1.deps.json
+D:\mphasis\Phase4PracticeProjects\PracticeProject1\LoginLibProj1\LoginLibProj1\bin\Debug\net6.0\LoginLibProj1.dll
+D:\mphasis\Phase4PracticeProjects\PracticeProject1\LoginLibProj1\LoginLibProj1\bin\Debug\net6.0\LoginLibProj1.pdb
+D:\mphasis\Phase4PracticeProjects\PracticeProject1\LoginLibProj1\LoginLibProj1\obj\Debug\net6.0\LoginLibProj1.GeneratedMSBuildEditorConfig.editorconfig
+D:\mphasis\Phase4PracticeProjects\PracticeProject1\LoginLibProj1\LoginLibProj1\obj\Debug\net6.0\LoginLibProj1.AssemblyInfoInputs.cache
+D:\mphasis\Phase4PracticeProjects\PracticeProject1\LoginLibProj1\LoginLibProj1\obj\Debug\net6.0\LoginLibProj1.AssemblyInfo.cs
+D:\mphasis\Phase4PracticeProjects\PracticeProject1\LoginLibProj1\LoginLibProj1\obj\Debug\net6.0\LoginLibProj1.csproj.CoreCompileInputs.cache
+D:\mphasis\Phase4PracticeProjects\PracticeProject1\LoginLibProj1\LoginLibProj1\obj\Debug\net6.0\LoginLibProj1.dll
+D:\mphasis\Phase4PracticeProjects\PracticeProject1\LoginLibProj1\LoginLibProj1\obj\Debug\net6.0\refint\LoginLibProj1.dll
+D:\mphasis\Phase4PracticeProjects\PracticeProject1\LoginLibProj1\LoginLibProj1\obj\Debug\net6.0\LoginLibProj1.pdb
+D:\mphasis\Phase4PracticeProjects\PracticeProject1\LoginLibProj1\LoginLibProj1\obj\Debug\net6.0\ref\LoginLibProj1.dll
